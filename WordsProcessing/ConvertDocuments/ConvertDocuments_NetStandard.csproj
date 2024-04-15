@@ -28,7 +28,7 @@
     <Folder Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="SixLabors.ImageSharp" Version="2.0.0" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="2.1.8" />
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
